@@ -1,1 +1,1 @@
-# Predicting heating and cooling loads for a batiment
+# Predicting building's heating and cooling loads with ML
