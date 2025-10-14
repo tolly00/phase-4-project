@@ -31,6 +31,16 @@ R² = 0.8902871328418207
 Cooling Load (Y2):
 MSE = 8.741029898401292
 R² = 0.905673941598345
-## visualization
 
+## visualization
+![enter image description here](images/mse.png)
+![enter image description here](images/rsquare.png)
 ## Conclusion
+
+The developed model shows that machine learning can effectively predict building energy loads using only geometric and material features.  
+This can significantly **support architects, engineers, and energy planners** by providing:
+- Fast and reliable predictions of heating and cooling needs.  
+- Insights into which design elements most impact energy consumption.  
+- A foundation for **energy-efficient building design and optimization**.
+
+In summary, the model successfully learns how design choices influence energy demand, providing a **data-driven approach** to sustainable architecture.
