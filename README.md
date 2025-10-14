@@ -44,3 +44,25 @@ This can significantly **support architects, engineers, and energy planners** by
 - A foundation for **energy-efficient building design and optimization**.
 
 In summary, the model successfully learns how design choices influence energy demand, providing a **data-driven approach** to sustainable architecture.
+
+## 🗂️ Repository Structure
+
+```bash
+phase-4-project/
+├── data/          # dataset for the case study
+│   ├── ...
+│   ├── ...
+│   └── ...
+├── images/        # images used
+│   ├── ...
+│   ├── ...
+│   └── ...
+├── pdf/          # pdf files 
+│   ├── ...       # notebook.pdf
+│   ├── ...       # github.pdf
+│   └── ...       # presentation.pdf         
+├── .gitignore
+├── LICENSE
+├── README.md    
+└── index.ipynb           
+```
