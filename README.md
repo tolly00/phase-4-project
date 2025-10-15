@@ -35,6 +35,8 @@ R² = 0.905673941598345
 ## visualization
 ![enter image description here](images/mse.png)
 ![enter image description here](images/rsquare.png)
+![enter image description here](images/heating.png)
+![enter image description here](images/cooling.png)
 ## Conclusion
 
 The developed model shows that machine learning can effectively predict building energy loads using only geometric and material features.  
